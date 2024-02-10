@@ -4,13 +4,13 @@ In this assignment, I explored various clustering algorithms using different pre
 
 ## The clustering techniques employed were:
 
-#### 1- K-Means Clustering (KM)
-#### 2- Hierarchical Clustering (HC)
-#### 3- Density-Based Spatial Clustering of Applications with Noise (DBSCAN)
-#### 4- Spectral Clustering (SC)
-#### 5- Affinity Propagation (AP)
-#### 6- Ordering Points To Identify the Clustering Structure (OPTICS)
-#### 7- Mean Shift Clustering (MS)
+##### 1- K-Means Clustering (KM)
+##### 2- Hierarchical Clustering (HC)
+##### 3- Density-Based Spatial Clustering of Applications with Noise (DBSCAN)
+##### 4- Spectral Clustering (SC)
+##### 5- Affinity Propagation (AP)
+##### 6- Ordering Points To Identify the Clustering Structure (OPTICS)
+##### 7- Mean Shift Clustering (MS)
 
 
 ### The evaluation metrics considered were:
