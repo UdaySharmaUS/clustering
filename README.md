@@ -2,7 +2,7 @@
 
 In this assignment, I explored various clustering algorithms using different preprocessing techniques and evaluated them based on different metrics. The dataset utilized was the well-known Iris Dataset.
 
-###The clustering techniques employed were:
+### The clustering techniques employed were:
 
 1- K-Means Clustering (KM)
 2- Hierarchical Clustering (HC)
@@ -13,14 +13,14 @@ In this assignment, I explored various clustering algorithms using different pre
 7- Mean Shift Clustering (MS)
 
 
-###The evaluation metrics considered were:
+### The evaluation metrics considered were:
 
 Silhouette Score
 Calinski-Harabasz Score
 Davies-Bouldin Score
 For preprocessing, I applied:
 
-###Normalization
+### Normalization
 PCA (Principal Component Analysis)
 Transform
 Scale
