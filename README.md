@@ -35,7 +35,7 @@ It's important to note that the absence of a 'scale' column in the DBSCAN result
 
 ![image](https://github.com/UdaySharmaUS/clustering/assets/110687732/14b9fbcd-e156-4848-af0c-35df0683d9f5)
 
-## 3- dbcam
+## 3- dbscan
 
 ![image](https://github.com/UdaySharmaUS/clustering/assets/110687732/41a17f50-c9b6-470a-b3f8-c39873fd3f43)
 
